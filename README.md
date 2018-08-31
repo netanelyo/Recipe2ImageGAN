@@ -10,4 +10,4 @@ In addition to the above, you'll need:
 
 - `torchwordemb`
 
-- `tensorboard-pytorch (must be installed via pip and not by conda)`
+- `tensorboard-pytorch (must be installed via pip and not via conda)`
