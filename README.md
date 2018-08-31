@@ -1,5 +1,5 @@
 # Recipe2ImageGAN
-The coolest project ever!
+Pytorch implementation for reproducing the results in the paper Recipe2Image: Multimodal High-Resolution Text to Image Synthesis using Stacked Generative Adversarial Network by Ori Bar El, Ori Licht, Netanel Yosephian.
 
 ## Dependencies
 Python 2.7
