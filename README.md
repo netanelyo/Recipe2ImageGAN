@@ -1,5 +1,5 @@
 # Recipe2ImageGAN
-Pytorch implementation for reproducing the results in the paper <b> Recipe2Image: Multimodal High-Resolution Text to Image Synthesis using Stacked Generative Adversarial Network by Ori Bar El, Ori Licht, Netanel Yosephian <b>.
+Pytorch implementation for reproducing the results in the paper <b> Recipe2Image: Multimodal High-Resolution Text to Image Synthesis using Stacked Generative Adversarial Network by Ori Bar El, Ori Licht, Netanel Yosephian </b>.
 
 ## Dependencies
 Python 2.7
